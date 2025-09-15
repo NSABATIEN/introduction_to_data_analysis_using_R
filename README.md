@@ -1,1 +1,1 @@
-This course, and the associated resources, aims to introduce statistics and experimental design using R. The course was led by Ellie Sherrard Smith et al.and I chose this course to improve my skills in R based on entomological examples.
+This course, and the associated resources, aims to introduce statistics and experimental design using R. The course was led by Ellie Sherrard Smith et al. and I chose this course to improve my skills in R based on entomological examples.
